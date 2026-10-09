@@ -25,8 +25,8 @@
     <Company>HemSoft</Company>
     <Copyright>Copyright © 2025 HemSoft</Copyright>
     <Authors>Franz Hemmer</Authors>
-    <PackageProjectUrl>https://github.com/HemSoft/subtitle-translator</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/HemSoft/subtitle-translator</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/hemsoft-dev/subtitle-translator</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/hemsoft-dev/subtitle-translator</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
 
     <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
